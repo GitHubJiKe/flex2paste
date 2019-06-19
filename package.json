@@ -10,7 +10,7 @@
   "dependencies": {
     "clipboard": "^2.0.4",
     "core-js": "^2.6.5",
-    "modal2vue": "^1.0.4",
+    "modal2vue": "^1.0.5",
     "vue": "^2.6.10"
   },
   "devDependencies": {
